@@ -1,3 +1,2 @@
 # 1nw
-test 2 yeah
-new
+This is a new theme
