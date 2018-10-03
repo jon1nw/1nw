@@ -5,7 +5,7 @@ body {
   background-color: white;
   color: grey;
   font-family: 'Roboto', sans-serif;
-  margin-top: 50px; }
+  margin-top: 90px; }
 
 header .navbar {
   padding: 20px !important; }
@@ -44,4 +44,18 @@ header .navbar {
 
 .stripe {
   background-color: #efefee;
-  min-height: 300px; }
+  min-height: 300px;
+  padding: 100px 0; }
+
+h1 {
+  font-size: 50px;
+  color: #1c393d;
+  margin-bottom: 60px; }
+
+h2 {
+  font-size: 20px;
+  color: #98cb2b; }
+
+.card {
+  box-shadow: 0 0 32px rgba(0, 0, 0, 0.14);
+  min-height: 400px; }
